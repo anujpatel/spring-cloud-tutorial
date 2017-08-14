@@ -6,7 +6,7 @@ Config Repository: https://github.com/sivaprasadreddy/config-repo.git
 
 `> cd spring-cloud-config-server`
 
-`> mvn spring=boot:run` 
+`> mvn spring-boot:run` 
 
 Access http://localhost:8888/catalogservice/default or http://localhost:8888/catalogservice/prod
 
@@ -15,7 +15,7 @@ Access http://localhost:8888/catalogservice/default or http://localhost:8888/cat
 
 `> cd catalog-service`
 
-`> mvn spring=boot:run` 
+`> mvn spring-boot:run` 
 
 Access http://localhost:8181/env
 
@@ -23,7 +23,7 @@ Access http://localhost:8181/env
 
 `> cd order-service`
 
-`> mvn spring=boot:run` 
+`> mvn spring-boot:run` 
 
 Access http://localhost:8282/env
 
