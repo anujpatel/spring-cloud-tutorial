@@ -12,6 +12,6 @@
 	<modules>
 		<module>spring-cloud-config-server</module>
 		<module>catalog-service</module>
-		<module>spring-cloud-config-client</module>
+		<module>order-service</module>
 	</modules>
 </project>
