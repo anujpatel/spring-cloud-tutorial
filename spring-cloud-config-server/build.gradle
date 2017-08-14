@@ -1,6 +1,6 @@
 buildscript {
 	ext {
-		springBootVersion = '1.5.4.RELEASE'
+		springBootVersion = '1.5.6.RELEASE'
 	}
 	repositories {
 		mavenCentral()
@@ -23,7 +23,7 @@ repositories {
 
 
 ext {
-	springCloudVersion = 'Dalston.SR1'
+	springCloudVersion = 'Dalston.SR2'
 }
 
 dependencies {

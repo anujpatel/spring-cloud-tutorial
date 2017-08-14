@@ -11,5 +11,7 @@
 	<name>spring-cloud-tutorial</name>
 	<modules>
 		<module>spring-cloud-config-server</module>
+		<module>catalog-service</module>
+		<module>spring-cloud-config-client</module>
 	</modules>
 </project>
